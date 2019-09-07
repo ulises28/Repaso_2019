@@ -26,6 +26,7 @@ def diamond(n):
                 Diamante = Diamante + Asteriscos + '\n'
             return(Diamante)
 
+print("Prueba con diff")
 
 diamond(-4)
 diamond(0)
